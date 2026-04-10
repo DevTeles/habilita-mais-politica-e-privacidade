@@ -65,6 +65,9 @@ Suas informações podem ser armazenadas e processadas em servidores localizados
 8. ALTERAÇÕES A ESTA POLÍTICA DE PRIVACIDADE
 Podemos atualizar nossa Política de Privacidade periodicamente. Notificaremos você sobre quaisquer alterações publicando a nova Política de Privacidade nesta página e atualizando a data da “Última atualização”. Recomendamos que você revise esta Política de Privacidade periodicamente.
 
-9. CONTATO
+9. EXCLUSÂO DE CONTA
+Caso queira excluir sua conta de usuário só enviar um email para habilitamaisbr@gmail.com solicitando a exclusão do mesmo.
+
+10. CONTATO
 Se você tiver alguma dúvida sobre esta Política de Privacidade ou sobre nossas práticas de privacidade, entre em contato com nosso Encarregado de Proteção de Dados (DPO):
 EMAIL: legitresultados@gmail.com
