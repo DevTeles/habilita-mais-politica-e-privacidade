@@ -70,4 +70,4 @@ Caso queira excluir sua conta de usuário só enviar um email para habilitamaisb
 
 10. CONTATO
 Se você tiver alguma dúvida sobre esta Política de Privacidade ou sobre nossas práticas de privacidade, entre em contato com nosso Encarregado de Proteção de Dados (DPO):
-EMAIL: legitresultados@gmail.com
+EMAIL: habilitamaisbr@gmail.com
